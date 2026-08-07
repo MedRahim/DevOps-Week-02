@@ -2,3 +2,5 @@
 - Use meaningful commit messages
 - Work on feature branches
 - Open a PR before merging to main
+
+- feature/config-update: staging PORT=9090 APP_NAME=BetaApp
