@@ -1,0 +1,2 @@
+# Sample dependencies for the Week 2 demo app
+requests>=2.31.0
