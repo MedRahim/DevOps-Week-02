@@ -5,3 +5,5 @@
 - feature/app-setup: greet() + APP_NAME=AlphaApp
 - feature/config-update: staging PORT=9090 APP_NAME=BetaApp
 - Resolved merge conflict: kept staging PORT=9090, unified APP_NAME=DevOpsWeek02
+
+- feature/pr-demo: opened for Pull Request practice
